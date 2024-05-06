@@ -1,0 +1,13 @@
+.jumbo{
+    background-image: url(./img/pexels-yuting-gao-1089194.jpg);
+    background-size: contain;
+    /* z-index: 1; */
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+    opacity: 0.8;
+
+}
+.jumboContainer{
+    padding: 20px;
+}
